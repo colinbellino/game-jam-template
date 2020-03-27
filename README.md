@@ -8,4 +8,8 @@ This project depends on several assets that need to be bought and downloaded sep
 - Odin Inspector 2.1.11: https://odininspector.com/odin-serializer
 - Odin Validator 2.1.11: https://odininspector.com/odin-project-validator
 
-Make sure you restart Unity so all editor are reloaded correctly.
+**Make sure you restart Unity so all editor are reloaded correctly.**
+
+## Setting up dependencies
+
+- Rainbow Folders: in Project Settings > Borodar > Rainbow Folders, set the folder location to `Assets/Plugins`. 
